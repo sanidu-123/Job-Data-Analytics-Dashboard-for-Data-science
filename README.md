@@ -12,7 +12,7 @@ Our data visualization project is all about crafting a helpful dashboard using P
 
 ## Preprocessing
 ### Data Blending & Integration and data cleaning
-The dataset that is chosen for this project is a secondary one. Therefore, the data blending and integration are already done.  Plus, all the data was in a singular tabular format. Dataset is already cleaned and no many work to do.
+The dataset that is chosen for this project is a secondary one. Therefore, the data blending and integration are already done.  Plus, all the data was in a singular tabular format. The dataset is already cleaned and not much work to do.
 ### Data Transformation & Reduction 
 Replacing values  in the Experience column 
 * EN -Entry-level 
@@ -31,18 +31,18 @@ Replacing values in the Company size column
 * M- medium 
 * L- Large 
 
-## Annalysis
+## Analysis
 ### Descriptive Analysis 
-we decided to use Python to interpretation. Use info () and describe () functions for both numerical and categorical data.
+we decided to use Python for interpretation. Use info () and describe () functions for both numerical and categorical data.
 
 ### Visualization
 * The slicers on top with years allow filtering all data visuals by the year. The card visuals on top display the most important details about data.
 
-* Pie chart and donut chart visuals were used to show the total percentage distribution of company sizes and job distribution by emploment type.
+* Pie chart and donut chart visuals were used to show the total percentage distribution of company sizes and job distribution by employment type.
 
-* Line plot visual maps the overall trend of the number of jobs and average salary variation by the year. Table visual shows the top countires with their count of jobs. 
+* Line plot visual maps the overall trend of the number of jobs and average salary variation by the year. Table visual shows the top countries with their count of jobs. 
 
-* The correlation heatmap depicts the relationship between the employement type and numerical columns average salary and remote ratio.
+* The correlation heatmap depicts the relationship between the employment type and numerical columns' average salary and remote ratio.
 
-## Snapshot of dashboard
+## Snapshot of the dashboard
 ![Screenshot 2024-06-22 203142](https://github.com/sanidu-123/Job-Data-Analytics-Dashboard-for-Data-science/assets/172403569/a03fb0e8-1551-49ed-b800-dfb433a4bfee)
