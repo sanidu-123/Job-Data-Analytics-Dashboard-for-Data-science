@@ -1,7 +1,7 @@
 # Job Data Analysis Dashboard for Data science domain
 Use the Power BI data visualization tool to identify hidden insides and patterns in the data set by using ds salaries.csv
 
-# Power Bi link:https://app.powerbi.com/groups/me/reports/06989445-c477-4f38-9b8d-e8f5340e995f/ReportSection7f9992c3b4ecd5b4e1c7?experience=power-bi
+## Power Bi link:https://app.powerbi.com/groups/me/reports/06989445-c477-4f38-9b8d-e8f5340e995f/ReportSection7f9992c3b4ecd5b4e1c7?experience=power-bi
 ## Overview 
 This assignment aimed to select a dataset and analyze and visualize the data for deriving and interpreting insights. We have selected the data science domain and their job salaries for our visualization assignment. The underlying reason for selecting this domain was that the job market is dynamic with changes in the industry and the evolving market. Job salaries are important for job seekers, employers, and policymakers who want to understand what's happening in the job market.
 
